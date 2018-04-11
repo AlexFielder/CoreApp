@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApp", "CoreApp\CoreApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{AFA0AB3E-E3C6-401F-A32E-256247E8C6AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{30488A00-876A-459B-9A7D-F112FAEADB11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesstLibrary", "TesstLibrary\TesstLibrary.csproj", "{30488A00-876A-459B-9A7D-F112FAEADB11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
